@@ -1,2 +1,2 @@
 # TestStand
-Using TestStand to sequence physics experiments
+Use TestStand to sequence physics experiments
